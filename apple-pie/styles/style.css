@@ -34,7 +34,7 @@ body {
 /* STYLES */
 /* Write your CSS below */
 
-.backround_image {
+.background_image {
   background-image: url("../images/apple-pie.jpg");
   background-size: cover;
   background-repeat: no-repeat;
